@@ -1,4 +1,4 @@
-defineMaterial{
+defineMaterial {
     name = "skeleton_warrior",
     diffuseMap = "assets/textures/monsters/skeleton_warrior_dif.tga",
     specularMap = "assets/textures/monsters/skeleton_warrior_spec.tga",
@@ -12,7 +12,7 @@ defineMaterial{
     depthBias = 0,
 }
 
-defineMaterial{
+defineMaterial {
     name = "skeleton_warrior_weapons",
     diffuseMap = "assets/textures/monsters/skeleton_warrior_weapons_dif.tga",
     specularMap = "assets/textures/monsters/skeleton_warrior_weapons_spec.tga",
