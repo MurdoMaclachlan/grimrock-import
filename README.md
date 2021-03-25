@@ -5,3 +5,4 @@ A collection of assets imported from Grimrock 1 to Grimrock 2. All assets were o
 ### Index of Files:
 
 - [Skeleton Warrior Import](import_skeletonWarrior)
+    - ["Weak to Shock" Add-on](import_skeletonWarrior_WS)
